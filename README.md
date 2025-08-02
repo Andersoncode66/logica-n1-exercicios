@@ -1,1 +1,1 @@
-# logica-n1-exercicios
+# logica-n1-exercicioS
